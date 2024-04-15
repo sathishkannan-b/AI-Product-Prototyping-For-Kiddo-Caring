@@ -38,5 +38,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions, feedback, or inquiries regarding the Kiddo Caring AI Incubator Product Prototype, please contact us at [contact@example.com](mailto:contact@example.com).
+For any questions, feedback, or inquiries regarding the Kiddo Caring AI Incubator Product Prototype, please contact us at (mailto: sathishkannanb1357@gmail.com).
 
